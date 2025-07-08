@@ -1,0 +1,55 @@
+body {
+    background-color: #e9e4d8; /* light beige pastel */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.invite-card {
+    background-color: #ffffff;
+    width: 80%;
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 30px 20px;
+    border-radius: 15px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.invite-card h1 {
+    color: #3b3b3b;
+    margin-bottom: 10px;
+    font-size: 2em;
+}
+
+.invite-card h3 {
+    color: #555;
+    margin-top: 0;
+    margin-bottom: 20px;
+    font-weight: 400;
+}
+
+.invite-card p {
+    font-size: 16px;
+    color: #333;
+    margin: 10px 0;
+}
+
+span{
+    font-weight: 700;
+}
+
+.invite-card img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    margin: 20px 0;
+}
+
+.rsvp {
+    font-size: 14px;
+    color: #555;
+    margin-top: 20px;
+    padding-top: 15px;
+    border-top: 1px solid #ccc;
+}
